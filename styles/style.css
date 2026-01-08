@@ -1,0 +1,74 @@
+/* Impostazioni */
+body {
+  font-family: "Roboto";
+  background-color: white;
+  color: #434455;
+}
+
+ul li {
+  list-style: none;
+}
+
+a {
+  font-weight: 400;
+  font-size: 12px;
+  text-decoration: none;
+  line-height: 16px;
+  letter-spacing: 4%;
+}
+
+/* Menu Nav */
+
+.logo {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+span {
+  color: #4d5ae5;
+}
+
+.nav-button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+address {
+  font-style: normal;
+  margin-right: 156px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.intro {
+  background-color: #2e2f42;
+}
+
+.intro-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: white;
+}
+
+.button {
+  background: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+  color: white;
+  cursor: pointer;
+}
